@@ -24,4 +24,4 @@ When run without an argument it operates as a <abbr title="read-eval-print loop"
 ## Testing
 
 
-[Test Output](Yisp_Interpreter/expectedtestoutput.txt)
+[Test Output](testoutput.md)
