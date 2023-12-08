@@ -22,6 +22,6 @@ Next Run the Yisp_Interpreter.
 When run without an argument it operates as a <abbr title="read-eval-print loop">REPL</abbr> prompt which runs until it encounters an exit code. Otherwise, when given a Yisp source file it will attempt to execute it and then exit.
 
 ## Testing
-
+A test class called RunTestRepo was added to the Yisp.cs file. It can be uncommented and comment out RunFile class to trigger all tests in the repo. It will output directly to the command prompt.
 
 [Test Output](testoutput.txt)
