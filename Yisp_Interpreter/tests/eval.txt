@@ -1,5 +1,0 @@
-(set a 3) (eval 'a)
-(eval '(+ 1 2 3))
-(eval '(list 1 2 3))
-(eval '1)
-(eval 123)
