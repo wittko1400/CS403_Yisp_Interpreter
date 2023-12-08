@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Yisp_Interpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\wittk\\source\\repos\\Yisp_Interpreter\\tests"
+    }
+  }
+}
