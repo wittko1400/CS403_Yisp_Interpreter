@@ -16,10 +16,10 @@ Finally clone the Yisp Interpreter repo into where you stored the repos folder o
 git clone https://github.com/wittko1400/CS403_Yisp_Interpreter
 ```
 ## Usage
-Once inside Visual Studio open the solution file Lox_Interpreter, then build and clean
+Once inside Visual Studio open the solution file Yisp_Interpreter, then build and clean
 
 Next Run the Yisp_Interpreter.
-When run without an argument it operates as a <abbr title="read-eval-print loop">REPL</abbr> prompt which runs until it encounters an exit code. Otherwise, when given a Lox source file it will attempt to execute it and then exit.
+When run without an argument it operates as a <abbr title="read-eval-print loop">REPL</abbr> prompt which runs until it encounters an exit code. Otherwise, when given a Yisp source file it will attempt to execute it and then exit.
 
 ## Testing
 
