@@ -27,5 +27,5 @@ A test class called RunTestRepo was added to the Yisp.cs file. It can be uncomme
 [Test Output](testoutput.txt)
 
 ## ChatGPT
-- For this assignment's preparation, the author(s) have utilized ChatGPT, a language model created by OpenAI. 
+For this assignment's preparation, the author(s) have utilized ChatGPT, a language model created by OpenAI. 
 Within this assignment, the ChatGPT was used for purposes such as brainstorming, grammatical correction, writing paraphrasing, and learning.
